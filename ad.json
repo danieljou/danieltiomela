@@ -1,0 +1,39 @@
+{
+    "user":{
+        "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwNTc1NzM1NywiaWF0IjoxNzA1NjcwOTU3LCJqdGkiOiJkNmQ4ZDUyNzFhMzI0OGZlODNkZjEwOTliYmVjMDM3MyIsInVzZXJfaWQiOiI2ZDU4YjNlNy02YTJlLTRjOTktODQ4Ni02MjM2ZTE5ZmY1MmYifQ.0ZQZKtu9spnmdTx6Y3MKkBNzqF9p6-NNDW_htCP8Nik",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA4MjYyOTU3LCJpYXQiOjE3MDU2NzA5NTcsImp0aSI6ImIwZjAzNzAwMGU5ZTQxZDQ5MTZiYWUzMDkyNWY5Nzg4IiwidXNlcl9pZCI6IjZkNThiM2U3LTZhMmUtNGM5OS04NDg2LTYyMzZlMTlmZjUyZiJ9.y_tstn9xsLQDKBJe9yEV2JE7gDG5q6ZQ342kVFyFrfM",
+"id": "6d58b3e7-6a2e-4c99-8486-6236e19ff52f",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "usertes",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-19T11:57:06.880717Z",
+      "last_name": "usertest",
+      "first_name": null,
+      "email": "test@gmail.com",
+      "picture": "",
+      "groups": [],
+      "user_permissions": []
+    },
+  "token": {
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwNTc1NzM1NywiaWF0IjoxNzA1NjcwOTU3LCJqdGkiOiJkNmQ4ZDUyNzFhMzI0OGZlODNkZjEwOTliYmVjMDM3MyIsInVzZXJfaWQiOiI2ZDU4YjNlNy02YTJlLTRjOTktODQ4Ni02MjM2ZTE5ZmY1MmYifQ.0ZQZKtu9spnmdTx6Y3MKkBNzqF9p6-NNDW_htCP8Nik",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA4MjYyOTU3LCJpYXQiOjE3MDU2NzA5NTcsImp0aSI6ImIwZjAzNzAwMGU5ZTQxZDQ5MTZiYWUzMDkyNWY5Nzg4IiwidXNlcl9pZCI6IjZkNThiM2U3LTZhMmUtNGM5OS04NDg2LTYyMzZlMTlmZjUyZiJ9.y_tstn9xsLQDKBJe9yEV2JE7gDG5q6ZQ342kVFyFrfM",
+    "user": {
+      "id": "6d58b3e7-6a2e-4c99-8486-6236e19ff52f",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "usertes",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-19T11:57:06.880717Z",
+      "last_name": "usertest",
+      "first_name": null,
+      "email": "test@gmail.com",
+      "picture": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  "msg": "Login Success"
+}
