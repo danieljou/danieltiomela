@@ -55,7 +55,7 @@ function Projects() {
 						/>
 					</Col>
 
-					<Col md={4} className="project-card">
+					{/* <Col md={4} className="project-card">
 						<ProjectCard
 							imgPath={leaf}
 							isBlog={false}
@@ -64,9 +64,9 @@ function Projects() {
 							ghLink="https://github.com/soumyajit4419/Plant_AI"
 							demoLink="https://plant49-ai.herokuapp.com/"
 						/>
-					</Col>
+					</Col> */}
 
-					<Col md={4} className="project-card">
+					{/* <Col md={4} className="project-card">
 						<ProjectCard
 							imgPath={suicide}
 							isBlog={false}
@@ -75,8 +75,8 @@ function Projects() {
 							ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
 							// demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
 						/>
-					</Col>
-
+					</Col> */}
+					{/* 
 					<Col md={4} className="project-card">
 						<ProjectCard
 							imgPath={emotion}
@@ -87,7 +87,7 @@ function Projects() {
 							ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
 							// demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
 						/>
-					</Col>
+					</Col> */}
 				</Row>
 			</Container>
 		</Container>
